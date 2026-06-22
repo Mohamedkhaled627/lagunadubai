@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "fresh fruit juice orange glass colorful"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "fresh fruit juice orange glass colorful",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/da3fa4ef30e7.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1156px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f6acdbbae8ac.jpg",
+      "caption": "",
+      "source": "Adobe Stock",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0cb86ad2145c.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "870px",
+      "original_height": "1300px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/baa6e52392fd.jpg",
+      "caption": "",
+      "source": "Foodal",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7cda22807656.jpeg",
+      "caption": "",
+      "source": "Pexels",
+      "original_width": "3722px",
+      "original_height": "2792px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/664955cf63dd.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/198200c83a5b.jpg",
+      "caption": "",
+      "source": "Consumer Reports",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9000e485c0f4.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/48a91cebc92a.jpg",
+      "caption": "",
+      "source": "Magnific",
+      "original_width": "740px",
+      "original_height": "1110px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6e044767bae3.jpg",
+      "caption": "",
+      "source": "Magnific",
+      "original_width": "740px",
+      "original_height": "1109px"
+    }
+  ]
+}

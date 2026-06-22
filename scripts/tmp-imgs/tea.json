@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "arabic tea glass mint hot drink"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "arabic tea glass mint hot drink",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b191c0618d68.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/94f7ea7102f3.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/91931a6a5c93.jpg",
+      "caption": "",
+      "source": "Jewish Food Society",
+      "original_width": "1600px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/85221958d012.jpg",
+      "caption": "",
+      "source": "The Spice Odyssey",
+      "original_width": "2500px",
+      "original_height": "3125px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/758ef6a1327d.jpg",
+      "caption": "",
+      "source": "www.amazon.sa",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0912f3ee654e.jpg",
+      "caption": "",
+      "source": "Catastrophic Cook",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1cf49b66981b.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1185px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dd435d012bf3.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1067px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ee1fe30e6c76.jpg",
+      "caption": "",
+      "source": "Food52",
+      "original_width": "2800px",
+      "original_height": "2100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ada28a9e6d2a.jpg",
+      "caption": "",
+      "source": "Epicurious",
+      "original_width": "3000px",
+      "original_height": "2250px"
+    }
+  ]
+}

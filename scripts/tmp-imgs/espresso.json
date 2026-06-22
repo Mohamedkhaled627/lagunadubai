@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "espresso coffee cappuccino latte cup"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "espresso coffee cappuccino latte cup",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/829663df1a76.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "894px",
+      "original_height": "892px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dbd7e8b92f7a.png",
+      "caption": "",
+      "source": "Dorothy Lane Market",
+      "original_width": "1569px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4ec482a9ae99.png",
+      "caption": "",
+      "source": "Devoción Coffee",
+      "original_width": "2000px",
+      "original_height": "1355px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/74d4d891cbb6.jpg",
+      "caption": "",
+      "source": "HomeWetBar",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/033000ca840f.jpg",
+      "caption": "",
+      "source": "EspressoWorks",
+      "original_width": "1376px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/025cbdb6451f.jpg",
+      "caption": "",
+      "source": "Diamond Catering Supplies",
+      "original_width": "2560px",
+      "original_height": "855px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c50c8370f55a.jpg",
+      "caption": "",
+      "source": "Café Barista",
+      "original_width": "2160px",
+      "original_height": "1215px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b0578f82a5e0.png",
+      "caption": "",
+      "source": "staresso",
+      "original_width": "1800px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/24fb94ef8bc0.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f5ae847e0a6c.jpg",
+      "caption": "",
+      "source": "Ebru Coffee",
+      "original_width": "1020px",
+      "original_height": "3342px"
+    }
+  ]
+}

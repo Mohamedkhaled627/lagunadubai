@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "colorful cocktail mocktail drink tropical"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "colorful cocktail mocktail drink tropical",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ec67cad88794.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1125px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/833df3cc5954.jpg",
+      "caption": "",
+      "source": "Moody Mixologist",
+      "original_width": "1533px",
+      "original_height": "2300px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/64001746d800.jpg",
+      "caption": "",
+      "source": "Monin Canada",
+      "original_width": "3000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2f0baf37043f.jpg",
+      "caption": "",
+      "source": "Guppy Moms",
+      "original_width": "2731px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0c15303d9185.jpg",
+      "caption": "",
+      "source": "Weston Table",
+      "original_width": "2047px",
+      "original_height": "2730px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0975e625715f.jpg",
+      "caption": "",
+      "source": "Colorful Superfoodie",
+      "original_width": "1365px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5428cf605945.jpg",
+      "caption": "",
+      "source": "Gluten-Free, Paleo and Low-Sugar Recipes",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cee4355e2c0d.jpg",
+      "caption": "",
+      "source": "The Purple Pumpkin Blog",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bb309b51f478.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1335px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a63eefd2744b.jpg",
+      "caption": "",
+      "source": "The Today Show",
+      "original_width": "1500px",
+      "original_height": "844px"
+    }
+  ]
+}

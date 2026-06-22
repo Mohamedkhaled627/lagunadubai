@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "soda can soft drink pepsi cola"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "soda can soft drink pepsi cola",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e216f76f5a25.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4c11d9a6b1ec.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f918912612bc.jpeg",
+      "caption": "",
+      "source": "Brandclub",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bd6111cdad9a.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "1096px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bdc527a4a1b4.jpg",
+      "caption": "",
+      "source": "playcode3",
+      "original_width": "2048px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2ae6234423c7.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b425438fd667.png",
+      "caption": "",
+      "source": "Lunds & Byerlys",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/79db2f0968ee.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/73e228df0bbd.jpg",
+      "caption": "",
+      "source": "Men's Journal",
+      "original_width": "2560px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f1e835bd3c95.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    }
+  ]
+}

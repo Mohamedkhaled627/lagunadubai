@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "mojito mint lime drink glass refreshing"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "mojito mint lime drink glass refreshing",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3c2142c75b5a.jpg",
+      "caption": "",
+      "source": "Trop Rockin Recipes",
+      "original_width": "1400px",
+      "original_height": "875px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5bbc23b49e6a.jpg",
+      "caption": "",
+      "source": "Piper Cooks",
+      "original_width": "1800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b3f671abb998.jpg",
+      "caption": "",
+      "source": "Cocktail Contessa",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/230224064cbd.jpg",
+      "caption": "",
+      "source": "Inspired Taste",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/575a225af107.jpg",
+      "caption": "",
+      "source": "Lemon8",
+      "original_width": "1242px",
+      "original_height": "1660px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2628071fd89c.jpg",
+      "caption": "",
+      "source": "Sugar and Soul",
+      "original_width": "750px",
+      "original_height": "1125px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6378067c90e9.jpg",
+      "caption": "",
+      "source": "Mediterranean Latin Love Affair",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/48880404af61.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fd4fae276f0e.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "846px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a373748af8b7.jpeg",
+      "caption": "",
+      "source": "Judy Matusky, RDN, LDN",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

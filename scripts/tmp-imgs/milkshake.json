@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "milkshake chocolate vanilla glass whipped cream"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "milkshake chocolate vanilla glass whipped cream",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6aea037dbba5.jpg",
+      "caption": "",
+      "source": "The Heritage Cook",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d70fedf0ea8b.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e2bccd6a0757.jpg",
+      "caption": "",
+      "source": "Honest Cooking",
+      "original_width": "768px",
+      "original_height": "1376px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/046e284f3d56.jpg",
+      "caption": "",
+      "source": "Food Faith Fitness",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0e238f975a96.jpg",
+      "caption": "",
+      "source": "The Heritage Cook",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/725b3288a28c.jpg",
+      "caption": "",
+      "source": "Food Faith Fitness",
+      "original_width": "1200px",
+      "original_height": "1798px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9e31ed9fd88e.jpg",
+      "caption": "",
+      "source": "Kate the baker",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/de3b868c4f7a.jpg",
+      "caption": "",
+      "source": "Trop Rockin Recipes",
+      "original_width": "1400px",
+      "original_height": "875px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ce9801e1de50.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "631px",
+      "original_height": "1300px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/85cd3eb191a3.jpg",
+      "caption": "",
+      "source": "The Simple Veganista",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    }
+  ]
+}

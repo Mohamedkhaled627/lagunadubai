@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "frozen yogurt smoothie drink cup fruit"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "frozen yogurt smoothie drink cup fruit",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7df960f7af64.jpg",
+      "caption": "",
+      "source": "My Kitchen, My Studio",
+      "original_width": "900px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e400a6cbbb0d.jpg",
+      "caption": "",
+      "source": "Elavegan",
+      "original_width": "1200px",
+      "original_height": "1802px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/742940893c1d.jpg",
+      "caption": "",
+      "source": "Elavegan",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5a44244b17e0.jpeg",
+      "caption": "",
+      "source": "About a Mom",
+      "original_width": "1707px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/35eddad1b151.jpg",
+      "caption": "",
+      "source": "Simply Whisked",
+      "original_width": "768px",
+      "original_height": "1152px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d5914912660e.jpg",
+      "caption": "",
+      "source": "The Simple Veganista",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1f9f5ed4477e.jpg",
+      "caption": "",
+      "source": "DoorDash",
+      "original_width": "1194px",
+      "original_height": "672px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b15d6b4aff19.jpg",
+      "caption": "",
+      "source": "Foodal",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9d780e3dacac.jpg",
+      "caption": "",
+      "source": "Yummy Mummy Kitchen",
+      "original_width": "730px",
+      "original_height": "1095px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8cf0310f13b8.jpg",
+      "caption": "",
+      "source": "PROMIXX",
+      "original_width": "1280px",
+      "original_height": "1041px"
+    }
+  ]
+}

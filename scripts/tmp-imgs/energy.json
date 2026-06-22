@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "energy drink can red bull"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "energy drink can red bull",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f1813f04fe14.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "894px",
+      "original_height": "894px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a2c2b13d35f8.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/37595c0f15b3.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "900px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b4b8740e05e1.png",
+      "caption": "",
+      "source": "DoorDash",
+      "original_width": "1194px",
+      "original_height": "672px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a8896579cd12.jpg",
+      "caption": "",
+      "source": "Joe V's Smart Shop",
+      "original_width": "1300px",
+      "original_height": "1300px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a055f52978d9.jpeg",
+      "caption": "",
+      "source": "Southern Fire & Ice",
+      "original_width": "2400px",
+      "original_height": "2400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e4a709a2712c.png",
+      "caption": "",
+      "source": "DoorDash",
+      "original_width": "1194px",
+      "original_height": "672px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7c12e75f4906.jpeg",
+      "caption": "",
+      "source": "Stone's Beer & Beverage Market",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bd8032decfc9.png",
+      "caption": "",
+      "source": "Mydrinx.shop",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/061295ade9b1.png",
+      "caption": "",
+      "source": "Red Bull",
+      "original_width": "870px",
+      "original_height": "2200px"
+    }
+  ]
+}

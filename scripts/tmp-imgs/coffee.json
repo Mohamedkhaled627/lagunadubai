@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "turkish coffee cup dark elegant cafe"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "turkish coffee cup dark elegant cafe",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/216b40de0cbb.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/151706932d77.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "800px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/73f906809e91.jpeg",
+      "caption": "",
+      "source": "Pexels",
+      "original_width": "3512px",
+      "original_height": "6240px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f7fcea55fa5c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/06d466cad5d0.jpeg",
+      "caption": "",
+      "source": "Pexels",
+      "original_width": "3512px",
+      "original_height": "6240px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e0ee7a72ca4d.jpg",
+      "caption": "",
+      "source": "BBC",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/065da540c904.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1601px",
+      "original_height": "1601px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b52db769a012.jpg",
+      "caption": "",
+      "source": "Amazon",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/47d6fcf7e340.jpg",
+      "caption": "",
+      "source": "San Antonio Express-News",
+      "original_width": "1082px",
+      "original_height": "812px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/31e9ba240d58.jpg",
+      "caption": "",
+      "source": "Ubuy Bolivia",
+      "original_width": "1500px",
+      "original_height": "1215px"
+    }
+  ]
+}

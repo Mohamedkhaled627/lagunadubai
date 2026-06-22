@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "hot chocolate cinnamon milk drink cup"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "hot chocolate cinnamon milk drink cup",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b5241a371bd7.jpg",
+      "caption": "",
+      "source": "Knoops",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cd110eb51d04.jpg",
+      "caption": "",
+      "source": "Simply Organic",
+      "original_width": "1440px",
+      "original_height": "700px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c36887ae53ae.jpg",
+      "caption": "",
+      "source": "Everything Just Baked",
+      "original_width": "1430px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/65a7d67f56af.jpg",
+      "caption": "",
+      "source": "Cadbury Dessert Corner",
+      "original_width": "1330px",
+      "original_height": "831px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/13ec5166b2ce.jpg",
+      "caption": "",
+      "source": "Recipes to Nourish",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/20d478c78cbb.jpg",
+      "caption": "",
+      "source": "Organic Valley",
+      "original_width": "1200px",
+      "original_height": "782px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/46380a4e4978.jpg",
+      "caption": "",
+      "source": "Fueled Naturally",
+      "original_width": "1000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/965645355289.jpg",
+      "caption": "",
+      "source": "Kitchen Simmer",
+      "original_width": "1600px",
+      "original_height": "1066px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fcfc7eacc0e6.jpg",
+      "caption": "",
+      "source": "Food for the Brain",
+      "original_width": "2560px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f74378e908d7.jpg",
+      "caption": "",
+      "source": "MOON and spoon and yum",
+      "original_width": "1800px",
+      "original_height": "1200px"
+    }
+  ]
+}

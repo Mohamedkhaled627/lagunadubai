@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "frappe blended coffee whipped cream glass"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "frappe blended coffee whipped cream glass",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bd1c4fbeff04.jpg",
+      "caption": "",
+      "source": "The Kitchn",
+      "original_width": "2400px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4379d994a581.jpg",
+      "caption": "",
+      "source": "Savored Sips",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/628a09c8ef1f.jpg",
+      "caption": "",
+      "source": "Spice Bangla",
+      "original_width": "2560px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/002639f10877.jpg",
+      "caption": "",
+      "source": "Food52",
+      "original_width": "2048px",
+      "original_height": "1365px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b1e46fa75b8f.jpg",
+      "caption": "",
+      "source": "Small Town Woman",
+      "original_width": "924px",
+      "original_height": "1170px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f0e26178fcde.jpg",
+      "caption": "",
+      "source": "The Kitchn",
+      "original_width": "1500px",
+      "original_height": "844px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4a09571f715c.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6394946c46e5.png",
+      "caption": "",
+      "source": "frozenxplosion.com",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ed86fb53c9d4.jpg",
+      "caption": "",
+      "source": "Life With The Crust Cut Off",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3fb782e77486.jpg",
+      "caption": "",
+      "source": "Dinner, then Dessert",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

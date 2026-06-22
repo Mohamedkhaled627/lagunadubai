@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "matcha green tea latte drink cup"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "matcha green tea latte drink cup",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/061a438d2ca4.jpg",
+      "caption": "",
+      "source": "Vancouver with Love",
+      "original_width": "1200px",
+      "original_height": "1680px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5b9856154403.jpg",
+      "caption": "",
+      "source": "The Gestational Diabetic",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/282a302b25bb.jpg",
+      "caption": "",
+      "source": "Lauren Gleisberg",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/999e1a43c5d1.jpg",
+      "caption": "",
+      "source": "ibevconcepts.com",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a3f58fcd594f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1018px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/105db0070f72.jpg",
+      "caption": "",
+      "source": "Back Porch Paleo",
+      "original_width": "2274px",
+      "original_height": "4042px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9c5d065f4b06.jpg",
+      "caption": "",
+      "source": "The Flavor Bender",
+      "original_width": "1068px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fe8181bcaec9.jpg",
+      "caption": "",
+      "source": "Good as Gold Coffee",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/48e952bf5df8.jpg",
+      "caption": "",
+      "source": "Unsplash",
+      "original_width": "3000px",
+      "original_height": "4502px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/23a26f9e9905.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1300px",
+      "original_height": "738px"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "iced coffee cold drink glass caramel"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "iced coffee cold drink glass caramel",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/301b392d9568.jpg",
+      "caption": "",
+      "source": "Sugar and Soul",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/723cbc9811f7.jpg",
+      "caption": "",
+      "source": "My Mocktail Forest",
+      "original_width": "1200px",
+      "original_height": "1798px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1c55ab8a7e2b.jpg",
+      "caption": "",
+      "source": "Miss in the Kitchen",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/102e5313d52a.jpg",
+      "caption": "",
+      "source": "- The Diet Chef",
+      "original_width": "1000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b139a5eea1a7.png",
+      "caption": "",
+      "source": "CAFELY",
+      "original_width": "3334px",
+      "original_height": "1876px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6d33d7d4ac72.jpg",
+      "caption": "",
+      "source": "Miss in the Kitchen",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/27dfc736b629.jpg",
+      "caption": "",
+      "source": "Bennett Opie",
+      "original_width": "2000px",
+      "original_height": "2993px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9733fdfe060e.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4fb87f5ed256.jpg",
+      "caption": "",
+      "source": "Torani",
+      "original_width": "1300px",
+      "original_height": "1634px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fb5dee894b9e.png",
+      "caption": "",
+      "source": "Yummy Indian Kitchen",
+      "original_width": "1200px",
+      "original_height": "1600px"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "popcorn bucket sweet caramel snack"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "popcorn bucket sweet caramel snack",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/81900a69e930.jpg",
+      "caption": "",
+      "source": "Colette's Popcorn",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7c3a1fcbf018.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "894px",
+      "original_height": "901px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f8bcfb4daf61.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9fc70c6b39ec.webp",
+      "caption": "",
+      "source": "Renée's Popcorn",
+      "original_width": "2400px",
+      "original_height": "2400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b3c5149903e6.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6a65c4d3feb1.png",
+      "caption": "",
+      "source": "Fisher's Popcorn",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f18d84c8a0e8.png",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/64bd5e9cac7c.png",
+      "caption": "",
+      "source": "Kitchenrama",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/53d44d6a9c27.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6f3b60b21c3c.jpg",
+      "caption": "",
+      "source": "Colette's Popcorn",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    }
+  ]
+}

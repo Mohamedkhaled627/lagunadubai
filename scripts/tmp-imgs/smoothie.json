@@ -1,0 +1,81 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "smoothie fresh fruit drink glass healthy"
+✅ Got 10 images
+{
+  "success": true,
+  "query": "smoothie fresh fruit drink glass healthy",
+  "count": 10,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/abc1d993b1f7.png",
+      "caption": "",
+      "source": "Healthy Little Vittles",
+      "original_width": "1023px",
+      "original_height": "1537px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b4d25bdb414a.jpg",
+      "caption": "",
+      "source": "The Little Epicurean",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/80d058596d22.jpg",
+      "caption": "",
+      "source": "Harvard Health",
+      "original_width": "1538px",
+      "original_height": "1247px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e9e47e3545c0.jpg",
+      "caption": "",
+      "source": "The Picky Eater",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/920adfe68abf.jpg",
+      "caption": "",
+      "source": "Food Faith Fitness",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fa7992f99cb2.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7f1426c48b79.jpg",
+      "caption": "",
+      "source": "KJandCompany.co",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8e07b379662d.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "990px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c2c54bfda921.jpg",
+      "caption": "",
+      "source": "Bellevue Orchard",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5f6fc26359eb.jpg",
+      "caption": "",
+      "source": "Kristine's Kitchen",
+      "original_width": "1400px",
+      "original_height": "2097px"
+    }
+  ]
+}
